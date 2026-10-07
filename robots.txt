@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sartajalamdesigningboutique.in/sitemap.xml
